@@ -1,6 +1,6 @@
 # project-web2
 
-https://www.figma.com/proto/jyixGA0Yjfw6SawxYus65N/Web-2---Barber?node-id=2%3A7&scaling=scale-down&page-id=2%3A3&starting-point-node-id=2%3A7
+https://www.figma.com/proto/3kJKszHBhxdvMal2AvmNhv/web2?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2
 
 # Checkist
 
